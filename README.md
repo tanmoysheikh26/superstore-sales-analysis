@@ -194,6 +194,7 @@ The interactive Excel dashboard includes:
 
 The slicers allow users to interactively filter the dashboard and explore different business dimensions.
 
-## Screenshots
-https://github.com/tanmoysheikh26/superstore-sales-analysis/blob/main/Dashboard.png
+### 6.	Screenshots 
+Example: ![Dashboard Preview](https://github.com/tanmoysheikh26/superstore-sales-analysis/blob/main/Dashboard.png)
+
 
